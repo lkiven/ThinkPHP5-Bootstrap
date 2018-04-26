@@ -10,8 +10,8 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Karson",
-            "email": "karsonzhang@163.com"
+             "name": "Karson",
+             "email": "karsonzhang@163.com"
         }
     ],
     "require": {
