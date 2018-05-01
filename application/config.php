@@ -36,7 +36,7 @@ return [
     // 默认AJAX 数据返回格式,可选json xml ...
     'default_ajax_return'    => 'json',
     // 默认JSONP格式返回的处理方法
-    'default_jsonp_handler'  => 'jsonpReturn',
+    'default_jsonp_handler'  => ' jsonpReturn',
     // 默认JSONP处理方法
     'var_jsonp_handler'      => 'callback',
     // 默认时区
